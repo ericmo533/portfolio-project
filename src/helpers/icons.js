@@ -3,12 +3,11 @@ import {
     faSignOutAlt, 
     faEdit, 
     faSpinner,
-    faCirclePlus,
+    faPlusCircle,
     faPhone,
     faEnvelope,
     faMapMarkedAlt,
-    faLock,
-    faL
+    faLock
   } from "@fortawesome/free-solid-svg-icons";
   import { library } from "@fortawesome/fontawesome-svg-core";
 
@@ -19,7 +18,7 @@ import {
       faSignOutAlt, 
       faEdit, 
       faSpinner, 
-      faCirclePlus, 
+      faPlusCircle, 
       faPhone, 
       faEnvelope, 
       faMapMarkedAlt,
